@@ -58,10 +58,13 @@
 <div align="center">
                    
 ### :fire: My Stats :
+                   
+![Luphieanza's GitHub stats](https://github-readme-stats.vercel.app/api?username=luphieanza&show_icons=true&theme=default)
+                   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luphieanza&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luphieanza&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
-
+                   
 ---
 
 </div>
