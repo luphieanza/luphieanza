@@ -14,8 +14,12 @@
 
 ---
 <div align="center">
-- :man_technologist: About Me :</h2>
+                 
+### :man_technologist: About Me :</h2>
 
+</div>
+<div align="left">
+                 
 - :telescope: I’m working as a Senior Technical Writer and contributing to the Technical Documentation.</h4>
 
 - :seedling: Learn more about Technical Writing and Web Programming.</h4>
