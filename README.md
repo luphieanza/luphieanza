@@ -62,5 +62,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luphieanza&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 ---
+
+</div>
