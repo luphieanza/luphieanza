@@ -13,7 +13,7 @@
 </div>
 
 ---
-
+<div>
 <h2>:man_technologist: About Me :</h2>
 
 <h4>:telescope: I’m working as a Senior Technical Writer and contributing to the Technical Documentation.</h4>
@@ -22,9 +22,10 @@
 
 <h4>:zap: In my free time, I do Workout routines💪, learn programming🖥️, read books📚 /articles📰 / podcasts🎙️ / edvideos📹 and also contribute in Open Source Softwareℹ️.</h4>
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luphieanza/) [![Email Badge](https://img.shields.io/badge/-GMail-red?style=flat&logo=Gmail&logoColor=white)](mailto:luphieanza@gmail.com)
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luphieanza/) [![Email Badge](https://img.shields.io/badge/-GMail-red?style=flat&logo=Gmail&logoColor=white)](mailto:luphieanza@gmail.com)</h3>
 
-</h3>
+</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
