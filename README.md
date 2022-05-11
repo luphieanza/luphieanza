@@ -66,9 +66,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luphieanza&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
                    
 ---
-
+<!-- ![luphieanza](https://github.com/luphieanza/luphieanza/blob/output/github-contribution-grid-snake.gif) -->
+                   
 <p align="center">
-  <img src="https://github.com/luphieanza/luphieanza/raw/output/github-contribution-grid-snake.gif" alt="snake">
+  <img src="https://github.com/luphieanza/luphieanza/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 </div>
