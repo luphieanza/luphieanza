@@ -67,6 +67,6 @@
                    
 ---
 
-<!--![luphieanza](https://github.com/luphieanza/luphieanza/assets/github-contribution-grid-snake.gif)-->
+[luphieanza](https://github.com/luphieanza/luphieanza/assets/github-contribution-grid-snake.gif
                    
 </div>
