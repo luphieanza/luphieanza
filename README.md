@@ -75,11 +75,5 @@
 <p align="center">
   <img src="https://github.com/luphieanza/luphieanza/blob/main/assets/github-contribution-grid-snake.gif" alt="snake">
 </p>
-                                                                                                                     
-<!-- ![luphieanza](https://github.com/luphieanza/luphieanza/blob/output/github-contribution-grid-snake.gif) -->
-
-<p align="center">
-  <img src="https://github.com/luphieanza/luphieanza/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
-</p>
 
 </div>
