@@ -67,11 +67,8 @@
                    
 ---
 ### My 🐍 will eat your food HaHa!!</h2>
-
-<!-- ![luphieanza](https://github.com/luphieanza/luphieanza/blob/output/github-contribution-grid-snake.gif) -->
-                   
 <p align="center">
   <img src="https://github.com/luphieanza/luphieanza/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
+<!-- ![luphieanza](https://github.com/luphieanza/luphieanza/blob/output/github-contribution-grid-snake.gif) -->
 </div>
