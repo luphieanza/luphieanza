@@ -79,7 +79,7 @@
 <!-- ![luphieanza](https://github.com/luphieanza/luphieanza/blob/output/github-contribution-grid-snake.gif) -->
 
 <p align="center">
-  <img src="https://github.com/luphieanza/luphieanza/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/luphieanza/luphieanza/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
 </p>
 
 </div>
