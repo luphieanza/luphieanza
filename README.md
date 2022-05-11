@@ -68,7 +68,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/luphieanza/luphieanza/assets/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/luphieanza/luphieanza/blob/main/assets/github-contribution-grid-snake.svg" alt="snake">
 </p>
                                                                                                                                 
 </div>
