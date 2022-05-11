@@ -71,5 +71,9 @@
 </p>
                                                                                                              
 <!--[luphieanza](https://github.com/luphieanza/luphieanza/assets/github-contribution-grid-snake.gif-->
-                   
+
+<p align="center">
+  <img src="https://github.com/luphieanza/luphieanza/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+                                                                                                                                
 </div>
