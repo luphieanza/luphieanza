@@ -1,12 +1,8 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=luphieanza&style=flat-square&color=blue" alt="pviews"/>
 </div>
-  
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Halo, Folks!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+</br>
                                                                                     
 <div id="header" align="center">
   <img src="https://creamyanimation.com/wp-content/uploads/2018/01/Creamy-Script.gif" style="width:512px;/>
